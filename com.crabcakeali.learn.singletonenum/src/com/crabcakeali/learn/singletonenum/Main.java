@@ -2,6 +2,7 @@ package com.crabcakeali.learn.singletonenum;
 
 public class Main {
 
+	// Adding some new files
 	public static void main(String[] args) {
 
 		SingletonEnum.setTestStr("hello1");
